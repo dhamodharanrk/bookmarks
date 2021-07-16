@@ -1,27 +1,22 @@
 Apps:
   - Browsers:
-      - ⭐ Firefox: https://www.mozilla.org/firefox/
+      - Firefox: https://www.mozilla.org/firefox/
       - Chrome: https://www.google.com/chrome/
       - Opera: https://www.opera.com/
       - Safari: https://www.apple.com/safari/
-      - 💩 Internet Explorer:
-          - https://www.microsoft.com/download/internet-explorer.aspx
-          - Not sure how this got on the list
+      - Internet Explorer: https://www.microsoft.com/download/internet-explorer.aspx
 
   - Note-taking:
       - OneNote: https://www.onenote.com
       - Evernote: https://evernote.com
       - Notion: https://www.notion.so/
       - Simplenote: https://simplenote.com/
-      - And many, many more.
 
   - Todo lists:
       - Todoist: https://todoist.com
       - TickTick: https://ticktick.com
       - Remember the Milk: https://www.rememberthemilk.com
-      - Habitica:
-          - https://habitica.com/static/home
-          - Utilizes gamification
+      - Habitica: https://habitica.com/static/home
 
   - Editors / IDEs:
       - Notepad++: https://notepad-plus-plus.org/
@@ -29,6 +24,13 @@ Apps:
       - IntelliJ IDEA: https://www.jetbrains.com/idea/
       - Sublime Text: https://www.sublimetext.com/
       - Atom: https://atom.io/
+
+  - Online Tools:
+      - Online Dev Tools: https://www.tutorialspoint.com/online_dev_tools.htm
+      - Coding Ground: https://www.tutorialspoint.com/codingground.htm
+      - Json Formatter: https://jsonformatter.org/
+      - World Time: https://www.worldtimebuddy.com/
+      - Developers ToolKit: https://www.online-toolz.com/
 
 Software Development:
   - API Documentation:
@@ -58,11 +60,3 @@ Software Development:
       - Namechk: https://namechk.com/
       - NameMesh: https://www.namemesh.com/
       - Domize: https://domize.com/
-
-Projects:
-  - Live:
-      - Board Games: https://darekkay.com/board-games/
-      - Dashboard: https://dashboard.darekkay.com/
-      - Static Marks: https://darekkay.com/static-marks/
-      - Tip of the Day: https://tips.darekkay.com/
-      - Todoist Export: https://darekkay.com/todoist-export/
