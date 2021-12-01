@@ -12,61 +12,40 @@ Reference:
       - pythonbasics: https://pythonbasics.org/
       - Python Graph: https://www.python-graph-gallery.com/
 
-  - Note-taking:
-      - OneNote: https://www.onenote.com
-      - Evernote: https://evernote.com
-      - Notion: https://www.notion.so/
-      - Simplenote: https://simplenote.com/
+  - Cheat Sheets:
+      - MongoDB: https://www.opentechguides.com/how-to/article/mongodb/118/mongodb-cheatsheat.html
 
-  - Todo lists:
-      - Todoist: https://todoist.com
-      - TickTick: https://ticktick.com
-      - Remember the Milk: https://www.rememberthemilk.com
-      - Habitica: https://habitica.com/static/home
+  - Downloads:
+      - Python: https://www.python.org/downloads/
+      - Anaconda: https://repo.anaconda.com/archive/
+      - Miniconda: https://repo.anaconda.com/miniconda/
 
-  - Editors / IDEs:
-      - Notepad++: https://notepad-plus-plus.org/
-      - VSCode: https://code.visualstudio.com/
-      - IntelliJ IDEA: https://www.jetbrains.com/idea/
-      - Sublime Text: https://www.sublimetext.com/
-      - Atom: https://atom.io/
-      - Colab : https://colab.research.google.com/
+  - Open Source:
+      - Metabase: https://www.metabase.com/
 
-  - Online Tools:
-      - Online Dev Tools: https://www.tutorialspoint.com/online_dev_tools.htm
-      - Coding Ground: https://www.tutorialspoint.com/codingground.htm
-      - Json Formatter: https://jsonformatter.org/
-      - World Time: https://www.worldtimebuddy.com/
-      - Developers ToolKit: https://www.online-toolz.com/
-      - Notepad : https://www.rapidtables.com/tools/notepad.html
-      - Microsoft ToDo : https://to-do.office.com/tasks/today
+  - Learnings:
+      - Learnxinyminutes: https://learnxinyminutes.com/
+      - Data Science: https://chrisalbon.com/
+      - Image Manipulation: https://www.geeksforgeeks.org/working-images-python/
+      - W3 Schools Python: https://www.w3schools.com/python/
+      - Demon Jobs: https://janakiev.com/blog/python-background/
 
-Software Development:
-  - API Documentation:
-      - DevDocs.io:
-          - https://devdocs.io/
-          - devdocs-desktop: https://github.com/egoist/devdocs-desktop
-      - Zeal: https://zealdocs.org/
-      - Velocity: http://velocity.silverlakesoftware.com/
-      - Dash: https://kapeli.com/dash
+  - Data Mining:
+      - Chemical Extraction: http://chemdataextractor.org/
+      - News Parsing: https://github.com/holwech/NewsScraper
+      - Scrapinghub: https://github.com/scrapinghub
+      - Apify: https://apify.com/
+      - Zyte: https://www.zyte.com/data-extraction/
+      - Orange Data Miner: https://orangedatamining.com/
 
-  - Documentation:
-      - VuePress: https://vuepress.vuejs.org
-      - Docusaurus: https://docusaurus.io/
-      - Docsify: https://docsify.js.org/#/
-      - Docute: https://github.com/leptosia/docute
 
-  - Software Licenses:
-      - TLDRLegal - Software Licenses: https://tldrlegal.com/
-      - Choose a License: https://choosealicense.com/
-
-  - Sandbox:
-      - CodeSandbox: https://codesandbox.io
-      - CodePen: https://codepen.io/
-      - JSFiddle: https://jsfiddle.net/
-
-  - Domain Finder:
-      - Namechk: https://namechk.com/
-      - NameMesh: https://www.namemesh.com/
-      - Domize: https://domize.com/
-      - Host Advice : https://hostadvice.com/tools/whois
+Online Tools:
+  - Small Applications:
+    - Website Speed Test: https://tools.pingdom.com/
+    - Cron Schedule: https://crontab.guru/
+    - URL Encoder: https://www.urlencoder.org/
+    - Json Viewer: http://jsonviewer.stack.hu/
+    - HTTP Status Checker: http://www.urlitor.com/
+  - Online Platforms:
+      - Python Anywhere: https://www.pythonanywhere.com/login/
+      - Heroku: https://id.heroku.com/login
